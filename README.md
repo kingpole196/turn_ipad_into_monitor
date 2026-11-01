@@ -1,7 +1,7 @@
 # PadDisplay — use your iPad as a USB-C monitor for your Mac (free)
 
 i created this using ai coz i didnt want to pay for apps.
-you only need a usb-c cable(dont need a hdmi cable)
+you only need a type-c cable(dont need a hdmi cable)
 i used my ipad as a seccond display of my mac mini, with different apple ids
 
 
